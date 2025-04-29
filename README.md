@@ -1,1 +1,1 @@
-# flaviavick.github.io-landing-page
+# landing-page
